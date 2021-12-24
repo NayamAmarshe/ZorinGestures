@@ -3,8 +3,9 @@
 ### TouchEgg configuration for better and more feature-rich gestures on ZorinOS.
 
 ## Installation
-Since ZorinOS 16 already comes with TouchEgg preinstalled, you don't install TouchEgg manually :)
-Just copy and paste the line below in your terminal.
+Since ZorinOS 16 already comes with TouchEgg preinstalled, you don't install TouchEgg manually :)   
+
+**Just copy and paste the line below in your terminal.**
 ```shell
 gnome-extensions disable x11gestures@joseexposito.github.io; git clone https://github.com/NayamAmarshe/ZorinGestures.git; cd ZorinGestures/; cp touch* ~/.config/touchegg/;
 ```
