@@ -16,6 +16,11 @@ gnome-extensions disable x11gestures@joseexposito.github.io; git clone https://g
   - 3 Fingers UP or DOWN: **Switch Workspace**   
   - 3 Fingers LEFT or RIGHT: **Change Volume**   
   - 4 Fingers UP or DOWN: **Show overview**   
+
+
+<video src="https://user-images.githubusercontent.com/25067102/147373450-e4632d52-4f92-4061-a33c-95e8837377cb.mp4" autoplay="autoplay" loop></video>
+
+
   - [Browsers] 4 Fingers LEFT or RIGHT: **Go Back and Forward**
 
 ### Pinch Gestures:
