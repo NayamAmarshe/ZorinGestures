@@ -4,10 +4,9 @@
 
 ## Installation
 Since ZorinOS 16 already comes with TouchEgg preinstalled, you don't install TouchEgg manually :)
+Just copy and paste the line below in your terminal.
 ```shell
-git clone https://github.com/NayamAmarshe/ZorinGestures.git
-cd ZorinGestures/
-cp touch* ~/.config/touchegg/
+git clone https://github.com/NayamAmarshe/ZorinGestures.git; cd ZorinGestures/; cp touch* ~/.config/touchegg/;
 ```
 **That's it!**
 
