@@ -7,24 +7,24 @@ Since ZorinOS 16 already comes with TouchEgg preinstalled, you don't install Tou
 
 **Just copy and paste the line below in your terminal.**
 ```shell
-gnome-extensions disable x11gestures@joseexposito.github.io; git clone https://github.com/NayamAmarshe/ZorinGestures.git; cd ZorinGestures/; cp touch* ~/.config/touchegg/;
+gnome-extensions disable x11gestures@joseexposito.github.io; rm -f ~/.config/touchegg/touchegg.conf; git clone https://github.com/NayamAmarshe/ZorinGestures.git; cd ZorinGestures/; cp touch* ~/.config/touchegg/;
 ```
 **That's it!**
 
 ## Usage
 ### Swipe Gestures:
-  - 3 Fingers UP or DOWN: **Switch Workspace**   
-  - 3 Fingers LEFT or RIGHT: **Change Volume**   
-  - 4 Fingers UP or DOWN: **Show overview**   
-
-
-<video src="https://user-images.githubusercontent.com/25067102/147373450-e4632d52-4f92-4061-a33c-95e8837377cb.mp4" autoplay="autoplay" loop></video>
-
-
-  - [Browsers] 4 Fingers LEFT or RIGHT: **Go Back and Forward**
+  - **3 Fingers UP or DOWN:** Switch Workspace   
+    ![](https://j.gifs.com/jYLNky.gif)
+  - **3 Fingers LEFT or RIGHT:** Change Volume   
+    ![](https://j.gifs.com/r2Xn62.gif)
+  - **4 Fingers UP or DOWN:** Show overview   
+    ![](https://j.gifs.com/k2DNlv.gif)
+  - **4 Fingers LEFT or RIGHT:** Go Back and Forward
+    <img src="https://user-images.githubusercontent.com/25067102/121768884-4b070080-cb7e-11eb-8657-bbbd570e5c2b.gif" width="100%" />  <h3>[BROWSER ONLY]</h3>
 
 ### Pinch Gestures:
   - 3 Fingers PINCH IN/OUT: **Maximize and Restore Window size**   
+    ![](https://j.gifs.com/NOpyR2.gif)
 
 ## 
 
