@@ -21,7 +21,8 @@ gnome-extensions disable x11gestures@joseexposito.github.io; mv ~/.config/touche
   - **4 Fingers UP or DOWN:** Show overview   
     ![](https://j.gifs.com/k2DNlv.gif)
   - **4 Fingers LEFT or RIGHT:** Go Back and Forward
-    <img src="https://user-images.githubusercontent.com/25067102/121768884-4b070080-cb7e-11eb-8657-bbbd570e5c2b.gif" width="100%" />  <h3>[BROWSER ONLY]</h3>
+    <h3>[BROWSER ONLY]</h3>
+    <img src="https://user-images.githubusercontent.com/25067102/121768884-4b070080-cb7e-11eb-8657-bbbd570e5c2b.gif" width="100%" /> 
 
 ### Pinch Gestures:
   - 3 Fingers PINCH IN/OUT: **Maximize and Restore Window size**   
