@@ -7,7 +7,7 @@ Since ZorinOS 16 already comes with TouchEgg preinstalled, you don't install Tou
 
 **Just copy and paste the line below in your terminal.**
 ```shell
-gnome-extensions disable x11gestures@joseexposito.github.io; mv ~/.config/touchegg/touchegg.conf ~/.config/touchegg/touchegg.conf.old; git clone https://github.com/NayamAmarshe/ZorinGestures.git; cd ZorinGestures/; cp touch* ~/.config/touchegg/;
+gnome-extensions disable x11gestures@joseexposito.github.io; mv ~/.config/touchegg/touchegg.conf ~/.config/touchegg/touchegg.conf.old; git clone https://github.com/NayamAmarshe/ZorinGestures.git; cd ZorinGestures; cp touch* ~/.config/touchegg;
 ```
 
 **That's it!**
